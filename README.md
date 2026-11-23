@@ -19,5 +19,5 @@ M.Sc. in Computational Biology & Biochemistry (Tel Aviv University) with a backg
 - Hands-on Cybersecurity Program: Networking, Linux, Python for Security, Web Pentesting, SOC, Incident Response
 - Practicing on Hack The Box, TryHackMe, Hack The SOC and CTI Academy
 
-### 🌐 Portfolio
-[liron-meoded.vercel.app](https://liron-meoded.vercel.app)
+### 📫 Contact
+🌐 [liron-meoded.vercel.app](https://liron-meoded.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/liron-meoded/) · ✉️ lironmeoded09@gmail.com

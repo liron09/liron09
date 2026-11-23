@@ -20,4 +20,4 @@ M.Sc. in Computational Biology & Biochemistry (Tel Aviv University) with a backg
 - Practicing on Hack The Box, TryHackMe, Hack The SOC and CTI Academy
 
 ### 📫 Contact
-🌐 [liron-meoded.vercel.app](https://liron-meoded.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/liron-meoded/) · ✉️ lironmeoded09@gmail.com
+🌐 [liron09.github.io](https://liron09.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/liron-meoded/) · ✉️ lironmeoded09@gmail.com

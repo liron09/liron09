@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Liron Meoded 👋
 
-<!--
-**liron09/liron09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Cyber Threat Intelligence / OSINT & SOC Analyst** · Israel (Gush Dan)
 
-Here are some ideas to get you started:
+M.Sc. in Computational Biology & Biochemistry (Tel Aviv University) with a background in pharma clinical research (MSD, Sanofi), now focused on threat intelligence and security operations. I bring a researcher's rigor to investigations, plus a domain edge in **healthcare and medical-device security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Featured work
+- **[Remotely Exploitable Medical Devices (2015–2025)](https://github.com/liron09/medical-devices-osint)**: a full OSINT threat-intelligence investigation across 4 device categories and 5 manufacturers, with WHOIS/DNS, entity network, geospatial and threat-actor analysis.
+- **[Security Labs & OSINT Exercises](https://github.com/liron09/security-labs)**: scam-site investigation, IP reputation, public-figure profiling, image verification, geolocation, Active Directory and OpenCTI labs.
+- **[Hack The Box Write-ups](https://github.com/liron09/htb-writeups)**: offensive practice to understand how attacks really work.
+
+### 🛠️ Skills & tools
+**OSINT / CTI:** Maltego · Shodan · WHOIS/DNS · Google dorking · reverse image search · geolocation · MITRE ATT&CK · OpenCTI
+**SOC / IR:** log analysis · alert triage · incident response
+**Technical:** Linux · Python · Windows Server / Active Directory · networking · Kali
+
+### 🎓 Training
+- OSINT Analyst Program: InsAIghts Academy by Penlink, with Google & Reichman AI Tech School
+- Hands-on Cybersecurity Program: Networking, Linux, Python for Security, Web Pentesting, SOC, Incident Response
+- Practicing on Hack The Box, TryHackMe, Hack The SOC and CTI Academy
+
+### 🌐 Portfolio
+[liron-meoded.vercel.app](https://liron-meoded.vercel.app)

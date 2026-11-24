@@ -7,6 +7,7 @@ M.Sc. in Computational Biology & Biochemistry (Tel Aviv University) with a backg
 ### 🔎 Featured work
 - **[Remotely Exploitable Medical Devices (2015–2025)](https://github.com/liron09/medical-devices-osint)**: a full OSINT threat-intelligence investigation across 4 device categories and 5 manufacturers, with WHOIS/DNS, entity network, geospatial and threat-actor analysis.
 - **[Security Labs & OSINT Exercises](https://github.com/liron09/security-labs)**: scam-site investigation, IP reputation, public-figure profiling, image verification, geolocation, Active Directory and OpenCTI labs.
+- **[Web Security Labs: PortSwigger](https://github.com/liron09/security-labs/blob/main/web-security/portswigger-access-control-info-disclosure.md)**: 7 labs on access control and information disclosure (IDOR, 2FA bypass, API access control, exposed `.git`).
 - **[Hack The Box Write-ups](https://github.com/liron09/htb-writeups)**: offensive practice to understand how attacks really work.
 
 ### 🛠️ Skills & tools
